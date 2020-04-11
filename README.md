@@ -10,6 +10,10 @@ $ ionic serve
 $ ionic serve --lab  #モバイル画面
 ```
 
+## App URL(web)
+
+https://doshisha-timetable.netlify.com/home
+
 ## Work with slack
 
 [SlackとGitHubを連携してissueコメントやプルリク通知をチャンネルに流す方法（2020年版）](https://qiita.com/unsoluble_sugar/items/e42ac352400598a24915)  
